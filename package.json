@@ -1,11 +1,11 @@
 {
   "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "description": "Test Blog",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "Contentful <sunfireproject@gmail.com>",
   "bugs": {
-    "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+    "url": "https://github.com/nNevermore/contentful/issues"
   },
   "dependencies": {
     "gatsby": "^1.9.277",
@@ -17,7 +17,7 @@
     "gatsby-transformer-remark": "^1.7.44",
     "lodash": "^4.17.11"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://github.com/nNevermore/contentful#readme",
   "keywords": [
     "gatsby",
     "contentful",
@@ -27,7 +27,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
+    "url": "git+https://github.com/nNevermore/contentful.git"
   },
   "scripts": {
     "dev": "gatsby develop",
